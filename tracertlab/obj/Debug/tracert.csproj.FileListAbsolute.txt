@@ -1,0 +1,7 @@
+F:\БГУИР\2 курс\4 семестр\КСиС\tracert\tracert\bin\Debug\tracert.exe.config
+F:\БГУИР\2 курс\4 семестр\КСиС\tracert\tracert\bin\Debug\tracert.exe
+F:\БГУИР\2 курс\4 семестр\КСиС\tracert\tracert\bin\Debug\tracert.pdb
+F:\БГУИР\2 курс\4 семестр\КСиС\tracert\tracert\obj\Debug\tracert.csprojAssemblyReference.cache
+F:\БГУИР\2 курс\4 семестр\КСиС\tracert\tracert\obj\Debug\tracert.csproj.CoreCompileInputs.cache
+F:\БГУИР\2 курс\4 семестр\КСиС\tracert\tracert\obj\Debug\tracert.exe
+F:\БГУИР\2 курс\4 семестр\КСиС\tracert\tracert\obj\Debug\tracert.pdb

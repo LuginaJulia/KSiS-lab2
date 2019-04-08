@@ -1,0 +1,20 @@
+F:\БГУИР\2 курс\4 семестр\КСиС\tracertlab\tracertlab\bin\Debug\tracertlab.exe.config
+F:\БГУИР\2 курс\4 семестр\КСиС\tracertlab\tracertlab\bin\Debug\tracertlab.exe
+F:\БГУИР\2 курс\4 семестр\КСиС\tracertlab\tracertlab\bin\Debug\tracertlab.pdb
+F:\БГУИР\2 курс\4 семестр\КСиС\tracertlab\tracertlab\obj\Debug\tracertlab.csproj.CoreCompileInputs.cache
+F:\БГУИР\2 курс\4 семестр\КСиС\tracertlab\tracertlab\obj\Debug\tracertlab.exe
+F:\БГУИР\2 курс\4 семестр\КСиС\tracertlab\tracertlab\obj\Debug\tracertlab.pdb
+E:\csan-lab-2-master\csan-lab-2-master\tracertlab\tracertlab\bin\Debug\tracertlab.exe.config
+E:\csan-lab-2-master\csan-lab-2-master\tracertlab\tracertlab\bin\Debug\tracertlab.exe
+E:\csan-lab-2-master\csan-lab-2-master\tracertlab\tracertlab\bin\Debug\tracertlab.pdb
+E:\csan-lab-2-master\csan-lab-2-master\tracertlab\tracertlab\obj\Debug\tracertlab.csprojAssemblyReference.cache
+E:\csan-lab-2-master\csan-lab-2-master\tracertlab\tracertlab\obj\Debug\tracertlab.csproj.CoreCompileInputs.cache
+E:\csan-lab-2-master\csan-lab-2-master\tracertlab\tracertlab\obj\Debug\tracertlab.exe
+E:\csan-lab-2-master\csan-lab-2-master\tracertlab\tracertlab\obj\Debug\tracertlab.pdb
+E:\BSUIR\4_семестр\КСиС лаб\tracertlab\tracertlab\bin\Debug\tracertlab.exe.config
+E:\BSUIR\4_семестр\КСиС лаб\tracertlab\tracertlab\bin\Debug\tracertlab.exe
+E:\BSUIR\4_семестр\КСиС лаб\tracertlab\tracertlab\bin\Debug\tracertlab.pdb
+E:\BSUIR\4_семестр\КСиС лаб\tracertlab\tracertlab\obj\Debug\tracertlab.csprojAssemblyReference.cache
+E:\BSUIR\4_семестр\КСиС лаб\tracertlab\tracertlab\obj\Debug\tracertlab.csproj.CoreCompileInputs.cache
+E:\BSUIR\4_семестр\КСиС лаб\tracertlab\tracertlab\obj\Debug\tracertlab.exe
+E:\BSUIR\4_семестр\КСиС лаб\tracertlab\tracertlab\obj\Debug\tracertlab.pdb

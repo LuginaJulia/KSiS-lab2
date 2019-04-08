@@ -1,0 +1,6 @@
+F:\БГУИР\2 курс\4 семестр\КСиС\лабораторная 2\lab2 1\lab2 1\bin\Debug\lab2 1.exe
+F:\БГУИР\2 курс\4 семестр\КСиС\лабораторная 2\lab2 1\lab2 1\bin\Debug\lab2 1.exe.config
+F:\БГУИР\2 курс\4 семестр\КСиС\лабораторная 2\lab2 1\lab2 1\obj\Debug\lab2 1.csproj.CoreCompileInputs.cache
+F:\БГУИР\2 курс\4 семестр\КСиС\лабораторная 2\lab2 1\lab2 1\obj\Debug\lab2 1.exe
+F:\БГУИР\2 курс\4 семестр\КСиС\лабораторная 2\lab2 1\lab2 1\obj\Debug\lab2 1.pdb
+F:\БГУИР\2 курс\4 семестр\КСиС\лабораторная 2\lab2 1\lab2 1\bin\Debug\lab2 1.pdb
